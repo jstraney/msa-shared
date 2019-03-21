@@ -1,0 +1,11 @@
+{
+  "name": "msa-shared",
+  "version": "1.0.0",
+  "description": "shared library for microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Straney <straneyjeff@gmail.com> (http://www.orlandowebspecialist.com)",
+  "license": "MIT"
+}
